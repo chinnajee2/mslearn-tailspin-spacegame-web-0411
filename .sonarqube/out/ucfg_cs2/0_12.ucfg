@@ -1,0 +1,115 @@
+
+ITailSpin.SpaceGame.Web.Controllers.HomeController.Profile(string, string)
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csr ~(	"5*
+0*	
+1
+2
+3*…
+2êç
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csx x(v4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel".TailSpin.SpaceGame.Web.Models.ProfileViewModel‹
+ˆ
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csx  x(0
+
+%1void"ATailSpin.SpaceGame.Web.Models.ProfileViewModel.ProfileViewModel()*6
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModelÂ
+¿
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csxC x(V5
+%2/TailSpin.SpaceGame.Web.IDocumentDBRepository<T>"__id**}3
+1TailSpin.SpaceGame.Web.Controllers.HomeController"F
+_profileRespository/TailSpin.SpaceGame.Web.IDocumentDBRepository<T>ÕÒ
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csxC x(g*
+%3$System.Threading.Tasks.Task<TResult>"DTailSpin.SpaceGame.Web.IDocumentDBRepository<T>.GetItemAsync(string)*7
+5
+%2/TailSpin.SpaceGame.Web.IDocumentDBRepository<T>*
+
+idstring2GetItemAsync(string)ü
+ù
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csx3 x(gh
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel"0
+Profile%TailSpin.SpaceGame.Web.Models.Profile"__id*
+""ä
+á
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csxi x(tF
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel"
+Rankstring"__id*
+
+rankstringÐÍ
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csx x(w)
+%4#Microsoft.AspNetCore.Mvc.ViewResult"0Microsoft.AspNetCore.Mvc.Controller.View(object)*'%
+#Microsoft.AspNetCore.Mvc.Controller*6
+4
+%0.TailSpin.SpaceGame.Web.Models.ProfileViewModel2View(object)"®
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csx x(x+
+)
+%4#Microsoft.AspNetCore.Mvc.ViewResult*
+4*	
+1
+3
+3*
+1ÌÉ
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.cs| |(,5
+%5/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2RedirectToAction(string)"º
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.cs| |(-7
+5
+%5/Microsoft.AspNetCore.Mvc.RedirectToActionResult*œ
+3"–
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.cs~ ~(	
+implicit return*ù
+5º
+·
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.css) s(0
+%6"__entrypoint*
+
+idstring*
+
+rankstringê
+ç
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csr	 r(
+%7"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+idstring¨
+¥
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.css1 s(:
+idstring"__annotation*
+
+%7ì
+é
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.csr	 r(
+%8"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+rankstringª
+§
+
+u/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/Controllers/HomeController.css< s(J
+rankstring"__annotation*
+
+%8*
+0:
+idstring:
+rankstringB53
+1TailSpin.SpaceGame.Web.Controllers.HomeController

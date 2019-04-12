@@ -1,0 +1,7 @@
+organization=tpetchel-github
+projectKey=mslearn-tailspin-spacegame-web-0329
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.23279
+dashboardUrl=https://sonarcloud.io/dashboard?id=mslearn-tailspin-spacegame-web-0329
+ceTaskId=AWoPsaPYBqjuEZ89t4Nj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWoPsaPYBqjuEZ89t4Nj

@@ -1,0 +1,12 @@
+parameters:
+  buildConfiguration: 'Release'
+
+steps:
+- task: DotNetCoreCLI@2
+  displayName: 'dotnet test ${{ parameters.buildConfiguration }}'
+  inputs:
+    command: 'test'
+    arguments: '--configuration ${{ parameters.buildConfiguration }} /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura'
+    publishTestResults: true
+    projects: '**/*.Tests.csproj'
+    nobuild: true

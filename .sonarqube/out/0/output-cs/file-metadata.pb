@@ -1,0 +1,11 @@
+—
+’/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs™
+”/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs™
+”/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Home/Profile.g.cshtml.cs™
+”/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs©
+¤/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs›
+–/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs­
+¨/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs™
+”/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs—
+’/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs¦
+¡/Users/thpetche/Dev/tpetchel/mslearn-tailspin-spacegame-web-0329/Tailspin.SpaceGame.Web/obj/Debug/netcoreapp2.1/Tailspin.SpaceGame.Web.RazorTargetAssemblyInfo.cs
