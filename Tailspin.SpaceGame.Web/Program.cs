@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
+// Trivial change.
+
 namespace TailSpin.SpaceGame.Web
 {
     public class Program
